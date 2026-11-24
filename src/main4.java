@@ -1,3 +1,5 @@
+// convert all characters in a string to uppercase.
+
 import java.util.Scanner;
 
 public class main4 {
